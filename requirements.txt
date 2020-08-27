@@ -1,0 +1,6 @@
+requests
+json
+pandas
+matplotlib.pyplot
+numpy
+streamlit
